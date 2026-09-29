@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.zip
+vaults.json
+gocryptfs.conf
+gocryptfs.diriv
+gocryptfs.reverse.conf

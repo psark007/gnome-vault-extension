@@ -1,0 +1,35 @@
+.vault-popup {
+    width: 480px;
+    min-width: 480px;
+    max-width: 480px;
+}
+
+.vault-row-text {
+    spacing: 2px;
+    min-width: 0;
+}
+
+.vault-action {
+    padding: 3px 6px;
+}
+
+.vault-field {
+    padding: 7px 10px;
+}
+
+.vault-tab {
+    padding: 8px 10px 6px;
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.vault-tab:hover {
+    background-color: rgba(127, 127, 127, 0.10);
+}
+
+.vault-tab:checked {
+    font-weight: bold;
+    border-bottom: 2px solid rgba(127, 127, 127, 0.75);
+}

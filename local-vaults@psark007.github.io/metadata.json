@@ -1,0 +1,6 @@
+{
+  "uuid": "local-vaults@psark007.github.io",
+  "name": "Local Vaults",
+  "description": "Manual gocryptfs vault creation, registration, unlock and lock; nothing opens automatically.",
+  "shell-version": ["51"]
+}
